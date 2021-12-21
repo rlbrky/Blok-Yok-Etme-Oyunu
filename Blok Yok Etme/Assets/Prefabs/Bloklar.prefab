@@ -1,0 +1,1400 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7936517187892088995
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7936517187892088996}
+  m_Layer: 0
+  m_Name: Bloklar
+  m_TagString: Breakable
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7936517187892088996
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7936517187892088995}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.7763815, y: 9.966824, z: -20.515625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3068610494653935295}
+  - {fileID: 947652081430133788}
+  - {fileID: 8914942398592894572}
+  - {fileID: 3068610495505782574}
+  - {fileID: 947652082383303280}
+  - {fileID: 8914942399169258261}
+  - {fileID: 3068610494834435757}
+  - {fileID: 947652082152570029}
+  - {fileID: 8914942398705450714}
+  - {fileID: 3068610495755143201}
+  - {fileID: 947652081178949930}
+  - {fileID: 8914942398193215679}
+  - {fileID: 3068610495261753745}
+  - {fileID: 947652082019451865}
+  - {fileID: 8914942399021004263}
+  - {fileID: 3068610494668377043}
+  - {fileID: 947652082956355819}
+  - {fileID: 8914942398543432307}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &7936517186945998884
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 1279154694458068297, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_Name
+      value: "3 Vuru\u015Fluk Blok (1)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.1763816
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 790ca2c691b948f429c49bbed8e3066c, type: 3}
+--- !u!4 &8914942399169258261 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517186945998884}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187060676310
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 1279154694458068297, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_Name
+      value: "3 Vuru\u015Fluk Blok (4)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.420001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 790ca2c691b948f429c49bbed8e3066c, type: 3}
+--- !u!4 &8914942399021004263 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187060676310}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187131056067
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 5503687177075940268, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_Name
+      value: "2 Vuru\u015Fluk Blok"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5763817
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9, type: 3}
+--- !u!4 &947652081430133788 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187131056067}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187256414787
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.82
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.484375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520572286121877419, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_Name
+      value: "1 Vuru\u015Fluk Blok (5)"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d5104c9239c0704481d0629b589d54d, type: 3}
+--- !u!4 &3068610494668377043 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187256414787}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187377813295
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.1763816
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.484375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520572286121877419, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_Name
+      value: "1 Vuru\u015Fluk Blok"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d5104c9239c0704481d0629b589d54d, type: 3}
+--- !u!4 &3068610494653935295 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187377813295}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187414743797
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 5503687177075940268, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_Name
+      value: "2 Vuru\u015Fluk Blok (3)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22000003
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9, type: 3}
+--- !u!4 &947652081178949930 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187414743797}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187505571165
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 1279154694458068297, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_Name
+      value: "3 Vuru\u015Fluk Blok"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.9763815
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 790ca2c691b948f429c49bbed8e3066c, type: 3}
+--- !u!4 &8914942398592894572 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187505571165}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187529836866
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 1279154694458068297, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_Name
+      value: "3 Vuru\u015Fluk Blok (5)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.2200007
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 790ca2c691b948f429c49bbed8e3066c, type: 3}
+--- !u!4 &8914942398543432307 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187529836866}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187583025010
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 5503687177075940268, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_Name
+      value: "2 Vuru\u015Fluk Blok (2)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.6199999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9, type: 3}
+--- !u!4 &947652082152570029 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187583025010}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187691978557
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.484375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520572286121877419, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_Name
+      value: "1 Vuru\u015Fluk Blok (2)"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d5104c9239c0704481d0629b589d54d, type: 3}
+--- !u!4 &3068610494834435757 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187691978557}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187716128774
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 5503687177075940268, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_Name
+      value: "2 Vuru\u015Fluk Blok (4)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.8200006
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9, type: 3}
+--- !u!4 &947652082019451865 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187716128774}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187732322305
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.2200007
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.484375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520572286121877419, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_Name
+      value: "1 Vuru\u015Fluk Blok (4)"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d5104c9239c0704481d0629b589d54d, type: 3}
+--- !u!4 &3068610495261753745 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187732322305}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517187955047915
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 1279154694458068297, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_Name
+      value: "3 Vuru\u015Fluk Blok (2)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.22000003
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.38317585
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 790ca2c691b948f429c49bbed8e3066c, type: 3}
+--- !u!4 &8914942398705450714 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517187955047915}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517188094373566
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5763817
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.484375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520572286121877419, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_Name
+      value: "1 Vuru\u015Fluk Blok (1)"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d5104c9239c0704481d0629b589d54d, type: 3}
+--- !u!4 &3068610495505782574 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517188094373566}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517188344132017
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.484375
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5520572286121877419, guid: 8d5104c9239c0704481d0629b589d54d,
+        type: 3}
+      propertyPath: m_Name
+      value: "1 Vuru\u015Fluk Blok (3)"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d5104c9239c0704481d0629b589d54d, type: 3}
+--- !u!4 &3068610495755143201 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4949958095990028688, guid: 8d5104c9239c0704481d0629b589d54d,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517188344132017}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517188358918575
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 5503687177075940268, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_Name
+      value: "2 Vuru\u015Fluk Blok (1)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.9763815
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9, type: 3}
+--- !u!4 &947652082383303280 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517188358918575}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517188450495374
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 1279154694458068297, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_Name
+      value: "3 Vuru\u015Fluk Blok (3)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 790ca2c691b948f429c49bbed8e3066c, type: 3}
+--- !u!4 &8914942398193215679 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1557137944735613745, guid: 790ca2c691b948f429c49bbed8e3066c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517188450495374}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7936517188925664052
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7936517187892088996}
+    m_Modifications:
+    - target: {fileID: 5503687177075940268, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_Name
+      value: "2 Vuru\u015Fluk Blok (5)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.420001
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.06682396
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 12.515625
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9, type: 3}
+--- !u!4 &947652082956355819 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7134424021809488863, guid: 30726a35e4c8c9a478c9e7ee1d4ae8d9,
+    type: 3}
+  m_PrefabInstance: {fileID: 7936517188925664052}
+  m_PrefabAsset: {fileID: 0}
